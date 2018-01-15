@@ -1,0 +1,6 @@
+=> Como não permitir fechar o modal do twitter-bootstrap clicando fora da área?
+https://pt.stackoverflow.com/questions/8132/como-n%C3%A3o-permitir-fechar-o-modal-do-twitter-bootstrap-clicando-fora-da-%C3%A1rea
+
+<div class="modal fade" data-backdrop="static">
+    ...
+</div>
